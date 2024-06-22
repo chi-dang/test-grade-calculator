@@ -1,7 +1,7 @@
 # Test Grade Calculator
 ![Calculator](https://mypercentcalculator.com/images/grade-calculator.png)
-**Overview**:
-This project, named "Test Grade Calculator", is designed to calculate and analyze test scores for Many classes. The purpose of this program is to help the grading process and save time.
+<br>**Overview**:
+<br>This project, named "Test Grade Calculator", is designed to calculate and analyze test scores for Many classes. The purpose of this program is to help the grading process and save time.
 ***
 ## Project Requirements
 Python version 3.9 is required.
